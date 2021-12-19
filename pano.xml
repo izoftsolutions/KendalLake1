@@ -13,11 +13,11 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata comment="" heading="-90.05" altitude="3.30" datetime="28/10/2021 9:29" source="" description="" copyright="" customnodeid="" tags="before|Kendal Lake" longitude="-80.422611" nodeid="node9" title="IMG_20211028_092931_00_001.insp" author="" info="" latitude="25.707639"/>
+    <userdata comment="" heading="-90.05" altitude="3.30" datetime="28/10/2021 9:29" source="" description="" copyright="" customnodeid="" tags="before|Kendal Lake" longitude="-80.422611" nodeid="node9" title="Before I" author="" info="" latitude="25.707639"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" background="1" borderalpha="1" width="180"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot id="Point01" distance="3.11346" pan="-186.05" tilt="-14.05" description="" skinid="ht_node" target="" url="{node4}" title="IMG_20211112_124650_00_007.insp"/>
+      <hotspot id="Point01" distance="3.11346" pan="-186.05" tilt="-14.05" description="" skinid="ht_node" target="" url="{node4}" title="After I"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="20" zoomout="0" zoomoutpause="1" type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
@@ -37,11 +37,12 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata comment="" heading="89.97" altitude="3.60" datetime="28/10/2021 9:30" source="" description="" copyright="" customnodeid="" tags="before|Kendal Lake" longitude="-80.422556" nodeid="node10" title="IMG_20211028_093019_00_002.insp" author="" info="" latitude="25.707583"/>
+    <userdata comment="" heading="89.97" altitude="3.60" datetime="28/10/2021 9:30" source="" description="" copyright="" customnodeid="" tags="before|Kendal Lake" longitude="-80.422556" nodeid="node10" title="Before II" author="" info="" latitude="25.707583"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" background="1" borderalpha="1" width="180"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot id="Point01" distance="6.32914" pan="-188.63" tilt="-15.16" description="" skinid="ht_node" target="" url="{node5}" title="IMG_20211112_124719_00_008.insp"/>
+      <hotspot id="Point01" distance="6.32914" pan="-188.63" tilt="-15.16" description="" skinid="ht_node" target="" url="{node5}" title="After II"/>
+      <hotspot id="Point02" distance="10.3887" pan="-351.51" tilt="-8.38" description="" skinid="ht_node" target="-84.3/-18.2/100.0" url="{node6}" title="After III"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="20" zoomout="0" zoomoutpause="1" type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
@@ -61,11 +62,12 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata comment="" heading="90.33" altitude="3.70" datetime="12/11/2021 12:46" source="" description="" copyright="" customnodeid="" tags="After|Kendal Lake" longitude="-80.422611" nodeid="node4" title="IMG_20211112_124650_00_007.insp" author="" info="" latitude="25.707611"/>
+    <userdata comment="" heading="90.33" altitude="3.70" datetime="12/11/2021 12:46" source="" description="" copyright="" customnodeid="" tags="After|Kendal Lake" longitude="-80.422611" nodeid="node4" title="After I" author="" info="" latitude="25.707611"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" background="1" borderalpha="1" width="180"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot id="Point02" distance="6.32914" pan="-0.49" tilt="-6.88" description="" skinid="ht_node" target="0.0/0.0/100.0" url="{node10}" title="IMG_20211028_093019_00_002.insp"/>
+      <hotspot id="Point02" distance="6.32914" pan="-0.49" tilt="-6.88" description="" skinid="ht_node" target="0.0/0.0/100.0" url="{node10}" title="Before II"/>
+      <hotspot id="Point01" distance="3.11346" pan="-191.59" tilt="-12.22" description="" skinid="ht_node" target="" url="{node9}" title="Before I"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="20" zoomout="0" zoomoutpause="1" type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
@@ -85,12 +87,12 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata comment="" heading="90.63" altitude="3.60" datetime="12/11/2021 12:47" source="" description="" copyright="" customnodeid="" tags="After|Kendal Lake" longitude="-80.422611" nodeid="node5" title="IMG_20211112_124719_00_008.insp" author="" info="" latitude="25.707611"/>
+    <userdata comment="" heading="90.63" altitude="3.60" datetime="12/11/2021 12:47" source="" description="" copyright="" customnodeid="" tags="After|Kendal Lake" longitude="-80.422611" nodeid="node5" title="After II" author="" info="" latitude="25.707611"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" background="1" borderalpha="1" width="180"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot id="Point01" distance="4.19085" pan="-350.73" tilt="-8.27" description="" skinid="ht_node" target="-88.7/-7.2/100.0" url="{node6}" title="IMG_20211112_124758_00_009.insp"/>
-      <hotspot id="Point02" pan="-176.02" tilt="-7.85" description="" skinid="ht_node" target="" url="{node4}" title="IMG_20211112_124650_00_007.insp"/>
+      <hotspot id="Point01" distance="4.19085" pan="-350.73" tilt="-8.27" description="" skinid="ht_node" target="-88.7/-7.2/100.0" url="{node6}" title="After III"/>
+      <hotspot id="Point02" pan="-176.02" tilt="-7.85" description="" skinid="ht_node" target="" url="{node4}" title="After I"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="20" zoomout="0" zoomoutpause="1" type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
@@ -110,11 +112,11 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata comment="" heading="-179.68" altitude="3.50" datetime="12/11/2021 12:47" source="" description="" copyright="" customnodeid="" tags="After|Kendal Lake" longitude="-80.422639" nodeid="node6" title="IMG_20211112_124758_00_009.insp" author="" info="" latitude="25.707639"/>
+    <userdata comment="" heading="-179.68" altitude="3.50" datetime="12/11/2021 12:47" source="" description="" copyright="" customnodeid="" tags="After|Kendal Lake" longitude="-80.422639" nodeid="node6" title="After III" author="" info="" latitude="25.707639"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" background="1" borderalpha="1" width="180"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot id="Point01" distance="4.19085" pan="-87.88" tilt="1.42" description="" skinid="ht_node" target="" url="{node5}" title="IMG_20211112_124719_00_008.insp"/>
+      <hotspot id="Point01" distance="4.19085" pan="-87.46" tilt="-5.61" description="" skinid="ht_node" target="" url="{node5}" title="After II"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="20" zoomout="0" zoomoutpause="1" type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
