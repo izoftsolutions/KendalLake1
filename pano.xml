@@ -17,7 +17,7 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" background="1" borderalpha="1" width="180"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot id="Point01" distance="8.31497" pan="-186.7" tilt="-11.67" description="" skinid="ht_node" target="" url="{node10}" title="IMG_20211028_093019_00_002.insp"/>
+      <hotspot id="Point01" distance="3.11346" pan="-186.05" tilt="-14.05" description="" skinid="ht_node" target="" url="{node4}" title="IMG_20211112_124650_00_007.insp"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="20" zoomout="0" zoomoutpause="1" type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
@@ -41,7 +41,7 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" background="1" borderalpha="1" width="180"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot id="Point01" distance="8.31497" pan="-174.9" tilt="-21.42" description="" skinid="ht_node" target="" url="{node9}" title="IMG_20211028_092931_00_001.insp"/>
+      <hotspot id="Point01" distance="6.32914" pan="-188.63" tilt="-15.16" description="" skinid="ht_node" target="" url="{node5}" title="IMG_20211112_124719_00_008.insp"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="20" zoomout="0" zoomoutpause="1" type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
@@ -65,7 +65,7 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" background="1" borderalpha="1" width="180"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot id="Point01" pan="-358.87" tilt="-5.03" description="" skinid="ht_node" target="" url="{node5}" title="IMG_20211112_124719_00_008.insp"/>
+      <hotspot id="Point02" distance="6.32914" pan="-0.49" tilt="-6.88" description="" skinid="ht_node" target="0.0/0.0/100.0" url="{node10}" title="IMG_20211028_093019_00_002.insp"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="20" zoomout="0" zoomoutpause="1" type="crossdissolve" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
